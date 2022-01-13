@@ -1,6 +1,6 @@
 certifi==2019.9.11
 olefile==0.46
-Pillow==6.2.0
+Pillow==9.0.0
 qrcode==6.1
 scapy==2.4.3
 six==1.12.0
